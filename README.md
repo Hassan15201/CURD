@@ -1,2 +1,0 @@
-# CURD
-CURD Product system 
